@@ -13,4 +13,4 @@ let testProductPax = Product(name: "PAX", article: "22334455", image: UIImage(na
 
 var products: [Product] = [testProductHemnes, testProductLakk, testProductPax]
 var searchHistoryList: [Product] = []
-var favoritesList: [Product] = [testProductHemnes]
+var favoritesList: [Product] = [testProductHemnes, testProductLakk]
