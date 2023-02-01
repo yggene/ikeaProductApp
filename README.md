@@ -1,2 +1,5 @@
 # ikeaProductApp
-Small ap to get IKEA product info
+Small app to get IKEA product info
+
+`v0.1`
+Initial design + mock files
